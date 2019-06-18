@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Attempts to zone transfer all DNS records from the nameservers
 # specified.
 

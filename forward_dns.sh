@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Attempt to perform a forward DNS lookup for the subdomains
 # in the file given for the domain given.
 

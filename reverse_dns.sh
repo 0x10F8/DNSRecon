@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Attempts to perform reverse DNS look ups for the IP range defined 
 # by the parameters. If the resulting domain matches the pattern
 # specified then returns the found domain + IP.
